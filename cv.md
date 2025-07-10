@@ -12,3 +12,10 @@ UX/UI designer who aspires to become a frontend developer. I'm currently studyin
 2016-2021  Belarusian Academy of Music
 2019-2020  UX/UI Design, UX-Mind school  
 2020-2021  UX/UI Design, Uprock School (Online Course)
+
+### Skills ###
+Responsible, punctual, diligent, motivated, able to work under stress.  Software: Photoshop, Figma, Miro, Blender, Visual Studio Code, Git
+
+### Language ###
+English B1
+Russian Native
