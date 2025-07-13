@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+a { 
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    list-style-type:  none;
+  }
+
+body {
+    display: block;
+}
+
+.sub {
+    font-size: 16px;
+    color: grey;
+    margin: 15px 0 10px 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.main__container {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.header {
+    height: 100%;
+}
+
+.content__left {
+    padding-top: 200px;
+}
+
+
+.header__contacts {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.header__img {
+    margin-top: 50px;
+    width: 350px;
+    height: 500px;
+}
+
+.main {
+    margin: 120px 0;
+}
+
+.main__about {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    padding-bottom: 100px;
+    padding-top: 20px;
+    border-top: 2px solid grey;
+}
+
+.main__skills {
+    flex-direction: row;
+    padding-top: 20px;
+    border-top: 2px solid grey;
+    display: flex;
+    justify-content: center;
+}
+
+.main__title {
+    margin-bottom: 30px;
+}
+
+.skills {
+    width: 300px;
+}
+
+.expirience {
+    width: 300px;
+}
+
+.education {
+    width: 300px;
+}
+
+.language {
+    width: 300px;
+}
+
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.footer__ul-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+
+
+
