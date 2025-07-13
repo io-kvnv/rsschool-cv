@@ -55,5 +55,18 @@ body {
     height: 500px;
 }
 
+.main {
+    margin: 150px 0;
+}
 
+.main__content {
+    padding: 100px 0;
+    border-top: 2px solid grey;
+    border-bottom: 2px solid grey;
+}
+
+.main__content-text {
+    font-size: 30px;
+    line-height: 1.5;
+}
 
