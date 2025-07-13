@@ -69,10 +69,16 @@ body {
     height: 100%;
 }
 
+.content__left {
+    padding-top: 200px;
+}
+
+
 .header__contacts {
     display: flex;
     justify-content: space-between;
-    width: 80%
+    flex-direction: column;
+    gap: 15px;
 }
 
 .header__img {
@@ -82,7 +88,7 @@ body {
 }
 
 .main {
-    margin: 150px 0;
+    margin: 120px 0;
 }
 
 .main__about {
@@ -95,15 +101,12 @@ body {
 }
 
 .main__skills {
-    align-content: center;
     flex-direction: row;
-    gap: 20px;
     padding-bottom: 100px;
     padding-top: 20px;
     border-top: 2px solid grey;
-    width: 100%;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .main__title {
@@ -111,12 +114,19 @@ body {
 }
 
 .skills {
-    width: 60%;
+    width: 300px;
 }
 
+.expirience {
+    width: 300px;
+}
 
+.education {
+    width: 300px;
+}
 
-
-
+.language {
+    width: 300px;
+}
 
 
