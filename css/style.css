@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+html {
+    line-height: 1.15; 
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    display: block;
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
+
+h1 {
+    font-size: 90px;
+    font-weight: 400;
+}
